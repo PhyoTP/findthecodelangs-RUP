@@ -1,3 +1,7 @@
+# Find the code langs showcase
+This is a website showcasing my [roblox game](https://www.roblox.com/share?code=c24371b39f9de146a3183c7205141a2d&type=ExperienceDetails&stamp=1718626359965) as a 3d model, exported to unity 
+and built on [github pages](https://phyotp.github.io/findthecodelangs-RUP)
+ as my submission for fraps.hackclub.com
 code for camera:
 ```cs
 
